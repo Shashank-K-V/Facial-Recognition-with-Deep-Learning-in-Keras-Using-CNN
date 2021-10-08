@@ -1,4 +1,4 @@
-# Facial-Recognition-with-Deep-Learning-in-Keras-Using-CNN
+# Facial-Recognition-Using-CNN
 
 DESCRIPTION
 
